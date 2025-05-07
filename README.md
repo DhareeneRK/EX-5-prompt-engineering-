@@ -1,9 +1,9 @@
-Experiment 5: Comparative Analysis of Naïve Prompting versus Basic Prompting Using ChatGPT Across Various Test Scenarios
+##Experiment 5: Comparative Analysis of Naïve Prompting versus Basic Prompting Using ChatGPT Across Various Test Scenarios
 
-Aim:
+##Aim:
 To test how ChatGPT responds to naïve prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios, analyzing the quality, accuracy, and depth of the generated responses.
 
-Algorithm:
+##Algorithm:
 
 Define Prompt Types:
 
@@ -143,7 +143,7 @@ Naïve prompts produced vague and less useful responses.
 
 Prompt clarity plays a crucial role in guiding the model to generate more structured and relevant content.
 
-Conclusion:
+##Conclusion:
 
 Clear, specific, and structured prompts lead to significantly improved outputs when using ChatGPT.
 
@@ -151,6 +151,6 @@ Users should invest time in refining prompts for optimal AI-generated results.
 
 There were no test cases where naïve prompts matched or outperformed basic prompts.
 
-Result:
+##Result:
 The prompt for the above-said problem executed successfully.
 
